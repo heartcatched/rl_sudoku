@@ -1,0 +1,3 @@
+Complexity,Loss,Equation
+1,-358.69827,"88.38706"
+6,-Inf,"protected_division(x51, safe_abs(protected_division(x25, -1.4513123)))"

@@ -1,0 +1,6 @@
+Complexity,Loss,Equation
+1,-359.9062,"88.68463"
+3,NaN,"x53 - -71.461655"
+5,-Inf,"x57 * protected_division(0.9832292, x7)"
+8,NaN,"protected_division(x57 * safe_abs(x21 * -42.19857), x7)"
+11,NaN,"(((x53 - -0.9832292) + (0.779673 - 0.39664224)) * x48) + x58"

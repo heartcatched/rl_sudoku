@@ -1,0 +1,12 @@
+# Model: sym_digit_humanfeat.joblib
+# Type: <class 'sklearn.multiclass.OneVsRestClassifier'>
+
+[Class 0] sub(sub(sub(sub(sub(sub(sub(sub(sub(X36, X13), div(neg(X91), sqrt(X72))), div(neg(X91), sqrt(X72))), div(neg(X91), sqrt(X72))), X18), X18), X18), X18), X18)
+[Class 1] sub(sub(sub(sub(sub(sub(sub(sub(sub(neg(X10), abs(X28)), abs(neg(X10))), X19), abs(X28)), X19), abs(X10)), abs(X28)), X19), abs(X28))
+[Class 2] sub(add(sub(X2, abs(sub(sub(X2, X18), sub(abs(sub(X2, abs(sub(sub(X2, X18), sub(abs(sqrt(X91)), sub(X2, X18)))))), X65)))), sub(X2, sub(sub(abs(sub(sub(X2, X91), sub(div(X20, X25), X65))), X65), X65))), sub(X54, X65))
+[Class 3] sub(add(sub(sub(sub(X84, X30), X30), X21), sub(sub(sub(add(add(sub(X84, X30), sub(sub(sub(X84, X21), X21), X21)), sub(sub(sub(X84, X30), X35), sub(X36, X66))), X21), X21), sub(X36, X66))), X21)
+[Class 4] add(sub(sub(sub(sub(sub(sub(sub(neg(X22), X13), X13), X31), X13), sqrt(X22)), X31), X13), sub(sub(neg(X22), X13), X31))
+[Class 5] add(X5, add(add(add(add(X5, add(add(sub(X5, X93), add(sub(sub(X68, X32), X32), sub(X5, X93))), sub(X68, X32))), add(add(sub(X68, X32), X5), sub(X5, X93))), sub(X5, X93)), sub(X68, X32)))
+[Class 6] sub(sqrt(mul(X91, X6)), sub(mul(max(abs(neg(X90)), neg(X90)), add(sqrt(X15), X24)), sub(sub(sqrt(mul(X91, X6)), sub(abs(sqrt(mul(X93, X33))), sub(sub(sqrt(mul(X91, X6)), add(sqrt(X15), X24)), X93))), X93)))
+[Class 7] sub(sub(add(neg(X34), sub(sub(neg(add(div(X67, X88), X25)), sub(add(div(X67, X88), X25), X7)), sub(add(div(X67, X88), X25), X7))), sub(add(div(X67, X88), X25), X7)), add(sub(add(div(X67, X88), X25), X7), X25))
+[Class 8] sub(add(sub(X71, div(X56, X51)), add(sub(add(sub(X71, X17), add(sub(X71, X17), neg(X17))), X17), sub(add(add(sub(X71, X17), add(sub(X71, X17), sub(X71, X17))), sub(sub(add(sub(X71, X93), neg(X17)), X17), X17)), X17))), X17)

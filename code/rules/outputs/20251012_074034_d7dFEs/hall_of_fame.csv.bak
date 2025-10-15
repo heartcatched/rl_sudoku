@@ -1,0 +1,11 @@
+Complexity,Loss,Equation
+1,6.691454,"5.0603027"
+3,6.687399,"x7 + 4.059945"
+5,6.532191,"protected_division(-1.8293539, x53) + 5.4091783"
+7,6.514908,"protected_division(x12 - 2.9318278, x53) + 5.348801"
+9,6.5104494,"(protected_division(x12 - 2.9318278, x53) + 5.2951684) - x5"
+11,6.504259,"protected_division(-0.074669026 - (protected_division(2.6471832, x53) - x12), x53) + 5.055662"
+13,6.4985366,"((x41 - protected_division(protected_division(2.8616986, x53) - x12, x53)) + 5.029612) - x5"
+14,6.4968505,"((x55 * -0.21980129) - protected_division(protected_division(2.9951253, safe_abs(x53)) - x12, x53)) + 5.100663"
+15,6.4968014,"(protected_division(x41 - (protected_division(2.920142, x53) - x12), x53) + (5.0864654 - x5)) - x56"
+18,6.494675,"protected_division((x55 * neg(x11)) - (protected_division(2.8734965, safe_abs(x53)) - x12), x53) + safe_abs(x41 - -5.0401483)"
